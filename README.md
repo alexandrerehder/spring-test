@@ -1,21 +1,18 @@
-<p align="center">
-    <img width="1920" height="400" style="border-radius: 10px" src="./modulos/commons/src/main/assets/casadocodigo.png" alt="Banner">
-</p>
 
 ##
 
 <h4 align="center"> 
-	🚧 Orange Talents - Casa do Código 🚧
+	🚧 Teste Prático - Spring Boot 🚧
 </h4>
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alexandrerehder/casa-do-codigo"> 
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/Alexandrerehder/casa-do-codigo">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alexandrerehder/spring-test"> 
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/alexandrerehder/spring-test">
 </p>
     
 ## 💻 Sobre o projeto 
 
-💡 Exercício retirado do programa de treinamento Orange Talents, com intuito de atender as necessidades da Casa do Código.
+💡 Teste prático utilizando Spring Boot.
 
 ## 🛠 Tecnologias
 
@@ -40,15 +37,12 @@ Antes de começar, é preciso ter instalado em sua máquina as seguintes ferrame
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Alexandrerehder/casa-do-codigo
+$ git clone https://github.com/alexandrerehder/spring-test
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd casa-do-codigo/
+$ cd spring-test/
 
-# Suba os containers (casadocodigo, postgres, rabbitmq)
+# Suba os containers (postgres, rabbitmq)
 $ sudo make up
 ```
-
-## 📕 Documentação do projeto
-https://yonic.notion.site/Orange-Talents-Casa-do-C-digo-91cc521946c241b5b3e69382cdc33748
 
